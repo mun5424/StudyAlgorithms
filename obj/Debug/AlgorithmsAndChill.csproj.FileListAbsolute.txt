@@ -1,1 +1,19 @@
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.exe.config
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.exe
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.pdb
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.csprojResolveAssemblyReference.cache
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.Properties.Resources.resources
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.csproj.GenerateResource.Cache
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.exe
+C:\Users\charles.oh\AppData\Local\Temporary Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.pdb
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.exe.config
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.exe
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.pdb
 C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.exe.config
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.exe
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.pdb
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.exe
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\bin\Debug\AlgorithmsAndChill.pdb
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.csprojResolveAssemblyReference.cache
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.Properties.Resources.resources
+C:\Users\charles.oh\Documents\Visual Studio 2015\Projects\AlgorithmsAndChill\obj\Debug\AlgorithmsAndChill.csproj.GenerateResource.Cache
