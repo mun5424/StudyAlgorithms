@@ -9,6 +9,8 @@ namespace AlgorithmsAndChill
 {
     class MergeSort
     {
+        //Problem: implement a MergeSort (for sorting integers for the sake of simplicity) 
+ 
         static int[] mergeSort(int[] nums)
         {
             // divide and conquer 
@@ -93,7 +95,6 @@ namespace AlgorithmsAndChill
             nums = new int[] { 1, 3, 2, 4 };
             mergeSort(nums);
             Debug.WriteLine((string.Join(",", nums)));
-           
         }
     }
 }

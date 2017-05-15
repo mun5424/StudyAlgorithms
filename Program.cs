@@ -12,9 +12,10 @@ namespace AlgorithmsAndChill
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-         //   Application.Run(new Form1());
-            MergeSort.test(); 
 
+            //MergeSort.test();
+            //TwoSum.test(); 
+            DetectCycleLinkedList.test();
         }
     }
 }
