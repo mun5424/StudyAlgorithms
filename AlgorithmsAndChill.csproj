@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="DetectCycleLinkedList.cs" />
     <Compile Include="LeastCommonAncestor.cs" />
+    <Compile Include="LongestCommonSubsequence.cs" />
     <Compile Include="MergeSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

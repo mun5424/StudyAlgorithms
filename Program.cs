@@ -15,7 +15,9 @@ namespace AlgorithmsAndChill
 
             //MergeSort.test();
             //TwoSum.test(); 
-            DetectCycleLinkedList.test();
+            //DetectCycleLinkedList.test();
+            //LeastCommonAncestor.test(); 
+            LongestCommonSubsequence.test(); 
         }
     }
 }
