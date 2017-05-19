@@ -17,7 +17,8 @@ namespace AlgorithmsAndChill
             //TwoSum.test(); 
             //DetectCycleLinkedList.test();
             //LeastCommonAncestor.test(); 
-            LongestCommonSubsequence.test(); 
+            //LongestCommonSubsequence.test();
+            CoinChange.test();  
         }
     }
 }

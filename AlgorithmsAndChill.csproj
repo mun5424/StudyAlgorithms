@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoinChange.cs" />
     <Compile Include="DetectCycleLinkedList.cs" />
     <Compile Include="LeastCommonAncestor.cs" />
     <Compile Include="LongestCommonSubsequence.cs" />
