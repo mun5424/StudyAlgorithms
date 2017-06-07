@@ -51,6 +51,8 @@
   <ItemGroup>
     <Compile Include="CoinChange.cs" />
     <Compile Include="DetectCycleLinkedList.cs" />
+    <Compile Include="FirstOccurrenceOfString.cs" />
+    <Compile Include="MultipleOccurrence.cs" />
     <Compile Include="LeastCommonAncestor.cs" />
     <Compile Include="LongestCommonSubsequence.cs" />
     <Compile Include="MergeSort.cs" />
