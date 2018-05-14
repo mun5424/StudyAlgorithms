@@ -18,7 +18,8 @@ namespace AlgorithmsAndChill
             //DetectCycleLinkedList.test();
             //LeastCommonAncestor.test(); 
             //LongestCommonSubsequence.test();
-            CoinChange.test();  
+            //CoinChange.test();  
+            ReverseLinkedList.test(); 
         }
     }
 }
