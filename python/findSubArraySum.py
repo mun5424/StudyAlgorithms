@@ -16,4 +16,23 @@ Subarrays : arr[0...2], arr[2...4] have sum
 exactly equal to 33.
 """
 
-def findSubarraySub(arr, n, Sum): 
+def findSubarraySub(nums, k): 
+    preSum = {}
+    preSum[0] = 1
+    n = len(nums)
+    sum = 0
+    res = 0
+    for i in range(n): 
+        sum += nums[i]
+        if sum - k in preSum:
+            res += preSum[sum - k]
+        if sum in preSum:
+            preSum[sum] += 1
+        else:
+            preSum[sum] = 1
+    return res
+
+array = [-1, 1, -1, 1]
+k = 0
+
+print(findSubarraySub(array, k))
